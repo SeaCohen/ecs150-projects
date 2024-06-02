@@ -36,3 +36,6 @@
 #other stuff
 /ds3bits-G.cpp
 /ds3cat-G.cpp
+/ds3ls-G.cpp
+/LocalFileSystem-G.cpp
+/DistributedFileSystemService-G.cpp
