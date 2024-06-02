@@ -1,9 +1,4 @@
 # our main executables
-gunrock_web
-mkfs
-ds3ls
-ds3cat
-ds3bits
 
 # Prerequisites
 *.d
@@ -37,3 +32,7 @@ ds3bits
 *.exe
 *.out
 *.app
+
+#other stuff
+/ds3bits-G.cpp
+/ds3cat-G.cpp

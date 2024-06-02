@@ -28,5 +28,6 @@ void DistributedFileSystemService::put(HTTPRequest *request, HTTPResponse *respo
 }
 
 void DistributedFileSystemService::del(HTTPRequest *request, HTTPResponse *response) {
+  string path = request->getPath();
   response->setBody("");
 }
